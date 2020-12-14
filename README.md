@@ -2,6 +2,7 @@
 
 [![PyPI version](https://badge.fury.io/py/tap-mysql.svg)](https://badge.fury.io/py/tap-salesforce)
 [![CircleCI Build Status](https://circleci.com/gh/singer-io/tap-salesforce.png)](https://circleci.com/gh/singer-io/tap-salesforce.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkchan-varicent%2Ftap-salesforce.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkchan-varicent%2Ftap-salesforce?ref=badge_shield)
 
 
 [Singer](https://www.singer.io/) tap that extracts data from a [Salesforce](https://www.salesforce.com/) database and produces JSON-formatted data following the [Singer spec](https://github.com/singer-io/getting-started/blob/master/SPEC.md).
@@ -57,3 +58,7 @@ To sync data, select fields in the `properties.json` output and run the tap.
 ```
 
 Copyright &copy; 2017 Stitch
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fkchan-varicent%2Ftap-salesforce.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fkchan-varicent%2Ftap-salesforce?ref=badge_large)
